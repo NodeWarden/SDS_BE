@@ -1,6 +1,7 @@
 SCHEDA DI DATI DI SICUREZZA
 secondo il Regolamento (CE) n. 1907/2006, come modificato dal Regolamento (UE) 2020/878 della Commissione
-IT / ITCapaWeiss Ultra
+IT / IT
+CapaWeiss Ultra
 Versione
 1.0
 Data di revisione:
@@ -8,16 +9,19 @@ Data di revisione:
 Numero SDS:
 6034290
 Data ultima edizione: -
-Data della prima edizione: 17.01.20251.1 Identificatore del prodotto
+Data della prima edizione: 17.01.2025
+1.1 Identificatore del prodotto
 Nome commerciale
 :
-CapaWeiss Ultra1.2 Usi identificati pertinenti della sostanza o della miscela e usi sconsigliati
+CapaWeiss Ultra
+1.2 Usi identificati pertinenti della sostanza o della miscela e usi sconsigliati
 Utilizzazione della sostan- za/della miscela
 :
 Prodotto verniciante a base acquosa
 Restrizioni d'uso raccoman- date
 :
-nell'ambito di applicazioni adeguate - nessuno1.3 Informazioni sul fornitore della scheda di dati di sicurezza
+nell'ambito di applicazioni adeguate - nessuno
+1.3 Informazioni sul fornitore della scheda di dati di sicurezza
 Società :
 DAW Italia GmbH & Co KG Marchio Caparol Largo R. Murjahn 1 20071  Vermezzo con Zelo (Mi) +39029485521
 Telefono
@@ -30,7 +34,8 @@ Sito web
 Indirizzo e-mail Persona
 responsabile/redattore
 :
-sds@dawitalia.it1.4 Numero telefonico di emergenza
+sds@dawitalia.it
+1.4 Numero telefonico di emergenza
 Numero telefonico di emer- genza 1
 :
 Centri Antiveleni:
@@ -44,33 +49,13 @@ Roma - Osp. Pediatrico Bambino Gesù - Tel. 06 68593726
 Roma - Policlinico "Umberto I" - tel. 06-49978000
 Roma - Policlinico "A. Gemelli" - tel. 06-3054343
 Foggia - Az. Osp. Univ. Foggia - Tel. 0881-732326
-Napoli - Az. Osp. "A. Cardarelli" - Tel. 081-74728701.4 Numero telefonico di emergenza
-Verona - Azienda Ospedaliera Integrata Verona - Tel. 800011858SCHEDA DI DATI DI SICUREZZA
+Napoli - Az. Osp. "A. Cardarelli" - Tel. 081-7472870
+1.4 Numero telefonico di emergenza
+Verona - Azienda Ospedaliera Integrata Verona - Tel. 800011858
+SCHEDA DI DATI DI SICUREZZA
 secondo il Regolamento (CE) n. 1907/2006, come modificato dal Regolamento (UE) 2020/878 della Commissione
-IT / ITCapaWeiss Ultra
-Versione
-1.0
-Data di revisione:
-17.01.2025
-Numero SDS:
-6034290
-Data ultima edizione: -
-Data della prima edizione: 17.01.2025Classificazione (REGOLAMENTO (CE) N. 1272/2008)
-Sostanza o miscela non pericolosa.Etichettatura (REGOLAMENTO (CE) N. 1272/2008)
-Nessun pittogramma di pericolo, nessuna avvertenza, nessuna indicazione/i di pericolo, nessun consiglio/i di prudenza richiesto.Etichettatura aggiuntiva
-EUH210
-Scheda dati di sicurezza disponibile su richiesta.
-EUH211
-Attenzione! In caso di vaporizzazione possono formarsi goccioline respirabili pericolose. Non respirare i vapori o le nebbie.2.3 Altri pericoli
-Questa sostanza/miscela non contiene componenti considerati sia persistenti, bioaccumulabili che tossici (PBT), oppure molto persistenti e molto bioaccumulabili (vPvB) a concentrazioni di 0.1% o superiori.
-informazioni ecologiche: La sostanza/miscela non contiene componenti considerati aventi proprietà di interferenza endocrina ai sensi dell'articolo 57(f) del REACH o del regolamento delegato (UE) 2017/2100 della Commissione o del regolamento (UE) 2018/605 della Commissione a livelli dello 0,1% o superiori.2.3 Altri pericoli
-informazioni tossicologiche: La sostanza/miscela non contiene componenti considerati aventi proprietà di interferenza endocrina ai sensi dell'articolo 57(f) del REACH o del regolamento delegato (UE) 2017/2100 della Commissione o del regolamento (UE) 2018/605 della Commissione a livelli dello 0,1% o superiori.3.2 Miscele
-Natura chimica
-:
-Pittura in emulsione acquosaComponenti
-Nome Chimico, 1 = N. CAS N. CE N. INDICE Numero di registra- zione. Nome Chimico, 2 = Classificazione. Nome Chimico, 3 = Concentrazio- ne (% w/w). biossido di titanio; [in polvere con- tenente ≥ 1 %di particelle con diametro aerodinamico ≤ 10 μm], 1 = 13463-67-7 236-675-5 022-006-00-2. biossido di titanio; [in polvere con- tenente ≥ 1 %di particelle con diametro aerodinamico ≤ 10 μm], 2 = Carc. 2; H351. biossido di titanio; [in polvere con- tenente ≥ 1 %di particelle con diametro aerodinamico ≤ 10 μm], 3 = >= 1 - < 10SCHEDA DI DATI DI SICUREZZA
-secondo il Regolamento (CE) n. 1907/2006, come modificato dal Regolamento (UE) 2020/878 della Commissione
-IT / ITCapaWeiss Ultra
+IT / IT
+CapaWeiss Ultra
 Versione
 1.0
 Data di revisione:
@@ -79,5 +64,38 @@ Numero SDS:
 6034290
 Data ultima edizione: -
 Data della prima edizione: 17.01.2025
-Sostanze con un limite di esposizione professionale :, 01-2119489379-17 = Sostanze con un limite di esposizione professionale :. Sostanze con un limite di esposizione professionale :,  = Sostanze con un limite di esposizione professionale :. calcare, 01-2119489379-17 = 1317-65-3 215-279-6. calcare,  = >= 30 - < 50. talco (Mg3H2(SiO3)4), 01-2119489379-17 = 14807-96-6 238-877-9 01-2120140278-58. talco (Mg3H2(SiO3)4),  = >= 1 - < 10CapaWeiss Ultra
+Classificazione (REGOLAMENTO (CE) N. 1272/2008)
+Sostanza o miscela non pericolosa.
+Etichettatura (REGOLAMENTO (CE) N. 1272/2008)
+Nessun pittogramma di pericolo, nessuna avvertenza, nessuna indicazione/i di pericolo, nessun consiglio/i di prudenza richiesto.
+Etichettatura aggiuntiva
+EUH210
+Scheda dati di sicurezza disponibile su richiesta.
+EUH211
+Attenzione! In caso di vaporizzazione possono formarsi goccioline respirabili pericolose. Non respirare i vapori o le nebbie.
+2.3 Altri pericoli
+Questa sostanza/miscela non contiene componenti considerati sia persistenti, bioaccumulabili che tossici (PBT), oppure molto persistenti e molto bioaccumulabili (vPvB) a concentrazioni di 0.1% o superiori.
+informazioni ecologiche: La sostanza/miscela non contiene componenti considerati aventi proprietà di interferenza endocrina ai sensi dell'articolo 57(f) del REACH o del regolamento delegato (UE) 2017/2100 della Commissione o del regolamento (UE) 2018/605 della Commissione a livelli dello 0,1% o superiori.
+2.3 Altri pericoli
+informazioni tossicologiche: La sostanza/miscela non contiene componenti considerati aventi proprietà di interferenza endocrina ai sensi dell'articolo 57(f) del REACH o del regolamento delegato (UE) 2017/2100 della Commissione o del regolamento (UE) 2018/605 della Commissione a livelli dello 0,1% o superiori.
+3.2 Miscele
+Natura chimica
+:
+Pittura in emulsione acquosa
+Componenti
+Nome Chimico, 1 = N. CAS N. CE N. INDICE Numero di registra- zione. Nome Chimico, 2 = Classificazione. Nome Chimico, 3 = Concentrazio- ne (% w/w). biossido di titanio; [in polvere con- tenente ≥ 1 %di particelle con diametro aerodinamico ≤ 10 μm], 1 = 13463-67-7 236-675-5 022-006-00-2. biossido di titanio; [in polvere con- tenente ≥ 1 %di particelle con diametro aerodinamico ≤ 10 μm], 2 = Carc. 2; H351. biossido di titanio; [in polvere con- tenente ≥ 1 %di particelle con diametro aerodinamico ≤ 10 μm], 3 = >= 1 - < 10
+SCHEDA DI DATI DI SICUREZZA
+secondo il Regolamento (CE) n. 1907/2006, come modificato dal Regolamento (UE) 2020/878 della Commissione
+IT / IT
+CapaWeiss Ultra
+Versione
+1.0
+Data di revisione:
+17.01.2025
+Numero SDS:
+6034290
+Data ultima edizione: -
+Data della prima edizione: 17.01.2025
+Sostanze con un limite di esposizione professionale :, 01-2119489379-17 = Sostanze con un limite di esposizione professionale :. Sostanze con un limite di esposizione professionale :,  = Sostanze con un limite di esposizione professionale :. calcare, 01-2119489379-17 = 1317-65-3 215-279-6. calcare,  = >= 30 - < 50. talco (Mg3H2(SiO3)4), 01-2119489379-17 = 14807-96-6 238-877-9 01-2120140278-58. talco (Mg3H2(SiO3)4),  = >= 1 - < 10
+CapaWeiss Ultra
 Per spiegazioni sulle abbreviazioni vedi paragrafo 16.

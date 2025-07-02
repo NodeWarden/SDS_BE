@@ -1,5 +1,6 @@
 Scheda di Dati di Sicurezza
-secondo il Regolamento REACH (CE) 1907/2006 modificato dal Regolamento (UE) 2020/878 Data di pubblicazione: 17/01/2025                                                                                                                 Versione: 1.0/IT1.1. Identificatore del prodotto
+secondo il Regolamento REACH (CE) 1907/2006 modificato dal Regolamento (UE) 2020/878 Data di pubblicazione: 17/01/2025                                                                                                                 Versione: 1.0/IT
+1.1. Identificatore del prodotto
 Denominazione commerciale
 Denominazione
 :
@@ -9,30 +10,41 @@ Codice prodotto
 Numero di registro
 : SHA 9600 A
 :
-188311.2.1. Usi identificati pertinenti
+18831
+1.2.1. Usi identificati pertinenti
 Categoria d'uso principale
 : Erbicida
 1.2.2. Usi sconsigliati
-Nessuna ulteriore informazione disponibile1.3. Informazioni sul fornitore della scheda di dati di sicurezza
+Nessuna ulteriore informazione disponibile
+1.3. Informazioni sul fornitore della scheda di dati di sicurezza
 Sharda Cropchem España, S.L. Edificio Atalayas business Center Carril Condomina no. 3, 12th floor 30006 Murcia, Spagna Tel +39 02 3604 2884
 regn@shardaintl.com
 Distribuito da: ASCENZA Italia S.r.l. Via Varese 25/G 21047 Saronno (VA) Italia
-Tel +39 02 84944669 www.ascenza.it1.4. Numero telefonico di emergenza
+Tel +39 02 84944669 www.ascenza.it
+1.4. Numero telefonico di emergenza
 Numero di emergenza
-:  1121.4. Numero telefonico di emergenza
-Italia, Organismo/società = Centro Antiveleni di Milano Ospedale Niguarda Ca' Granda. Italia, Indirizzo = Piazza Ospedale Maggiore 3, 20162 Milano. Italia, Numero di emergenza = +39 02 6610 1029. Italia, Organismo/società = Centro antiveleni, Azienda ospedaliera 'Antonio Cardarelli', III Servizio di anestesia e rianimazione. Italia, Indirizzo = Via Antonio Cardarelli 9, 80131 Napoli. Italia, Numero di emergenza = +39 08 1545 3333. Italia, Organismo/società = Centro antiveleni, Azienda ospedaliera universitaria Careggi, U.O. Tossicologia medica. Italia, Indirizzo = Via Largo Brambilla 3, 50134 Firenze. Italia, Numero di emergenza = +39 05 5794 7819. Italia, Organismo/società = Centro antiveleni, Centro nazionale d'informazione1.4. Numero telefonico di emergenza
-tossicologica, IRCCS Fondazione Salvatore Maugeri Clinica del lavoro e della riabilitazione. Italia, Indirizzo = Via Salvatore Maugeri 10, 27100 Pavia. Italia, Numero di emergenza = +39 0382 5921. Italia, Organismo/società = Centro antiveleni, Azienda ospedaliera 'Papa Giovanni XXIII', tossicologia clinica, Dipartimento di farmacia clinica e farmacologia. Italia, Indirizzo = Piazza OMS 1, 24129 Bergamo. Italia, Numero di emergenza = +39 800 883 300. Italia, Organismo/società = Centro antiveleni Policlinico 'Umberto I',PRGM tossicologia d'urgenza. Italia, Indirizzo = Viale del Policlinico 155, 00161 Roma. Italia, Numero di emergenza = +39 06 4997 8000. Italia, Organismo/società = Centro antiveleni del Policlinico 'Agostino1.4. Numero telefonico di emergenza
-Gemelli', Servizio di tossicologia clinica. Italia, Indirizzo = Largo Agostino Gemelli 8, 00168 Roma. Italia, Numero di emergenza = +39 06 3054343. Italia, Organismo/società = Centro antiveleni, Azienda ospedaliera universitaria riuniti. Italia, Indirizzo = Viale Luigi Pinto 1, 71122 Foggia. Italia, Numero di emergenza = +39 800 183 459. Italia, Organismo/società = Centro antiveleni, Ospedale pediatrico Bambino Gesù, Dipartimento emergenza e accettazione DEA. Italia, Indirizzo = Piazza Sant'Onofrio 4, 00165 Roma. Italia, Numero di emergenza = +39 06 68591. Italia, Organismo/società = Centro antiveleni dell'Azienda ospedaliera universitaria integrata (AOUI) di Verona sede di Borgo Trento. Italia, Indirizzo = Piazzale Aristide Stefani 1,1.4. Numero telefonico di emergenza
-37126 Verona. Italia, Numero di emergenza = +39 800 011 858Scheda di Dati di Sicurezza
-secondo il Regolamento REACH (CE) 1907/2006 modificato dal Regolamento (UE) 2020/878Classificazione secondo il regolamento (CE) n. 1272/2008 [CLP]
+:  112
+1.4. Numero telefonico di emergenza
+Italia, Organismo/società = Centro Antiveleni di Milano Ospedale Niguarda Ca' Granda. Italia, Indirizzo = Piazza Ospedale Maggiore 3, 20162 Milano. Italia, Numero di emergenza = +39 02 6610 1029. Italia, Organismo/società = Centro antiveleni, Azienda ospedaliera 'Antonio Cardarelli', III Servizio di anestesia e rianimazione. Italia, Indirizzo = Via Antonio Cardarelli 9, 80131 Napoli. Italia, Numero di emergenza = +39 08 1545 3333. Italia, Organismo/società = Centro antiveleni, Azienda ospedaliera universitaria Careggi, U.O. Tossicologia medica. Italia, Indirizzo = Via Largo Brambilla 3, 50134 Firenze. Italia, Numero di emergenza = +39 05 5794 7819. Italia, Organismo/società = Centro antiveleni, Centro nazionale d'informazione
+1.4. Numero telefonico di emergenza
+tossicologica, IRCCS Fondazione Salvatore Maugeri Clinica del lavoro e della riabilitazione. Italia, Indirizzo = Via Salvatore Maugeri 10, 27100 Pavia. Italia, Numero di emergenza = +39 0382 5921. Italia, Organismo/società = Centro antiveleni, Azienda ospedaliera 'Papa Giovanni XXIII', tossicologia clinica, Dipartimento di farmacia clinica e farmacologia. Italia, Indirizzo = Piazza OMS 1, 24129 Bergamo. Italia, Numero di emergenza = +39 800 883 300. Italia, Organismo/società = Centro antiveleni Policlinico 'Umberto I',PRGM tossicologia d'urgenza. Italia, Indirizzo = Viale del Policlinico 155, 00161 Roma. Italia, Numero di emergenza = +39 06 4997 8000. Italia, Organismo/società = Centro antiveleni del Policlinico 'Agostino
+1.4. Numero telefonico di emergenza
+Gemelli', Servizio di tossicologia clinica. Italia, Indirizzo = Largo Agostino Gemelli 8, 00168 Roma. Italia, Numero di emergenza = +39 06 3054343. Italia, Organismo/società = Centro antiveleni, Azienda ospedaliera universitaria riuniti. Italia, Indirizzo = Viale Luigi Pinto 1, 71122 Foggia. Italia, Numero di emergenza = +39 800 183 459. Italia, Organismo/società = Centro antiveleni, Ospedale pediatrico Bambino Gesù, Dipartimento emergenza e accettazione DEA. Italia, Indirizzo = Piazza Sant'Onofrio 4, 00165 Roma. Italia, Numero di emergenza = +39 06 68591. Italia, Organismo/società = Centro antiveleni dell'Azienda ospedaliera universitaria integrata (AOUI) di Verona sede di Borgo Trento. Italia, Indirizzo = Piazzale Aristide Stefani 1,
+1.4. Numero telefonico di emergenza
+37126 Verona. Italia, Numero di emergenza = +39 800 011 858
+Scheda di Dati di Sicurezza
+secondo il Regolamento REACH (CE) 1907/2006 modificato dal Regolamento (UE) 2020/878
+Classificazione secondo il regolamento (CE) n. 1272/2008 [CLP]
 Cancerogenicità, categoria 2
 H351
 Pericoloso per l'ambiente acquatico - Pericolo acuto, categoria 1
 H400
 Pericoloso per l'ambiente acquatico - Pericolo cronico, categoria 1
 H410
-Testo completo delle indicazioni H e EUH: vedere la sezione 16Effetti avversi fisico-chimici, per la salute umana e per l'ambiente
-Nessuna ulteriore informazione disponibileEtichettatura secondo il Regolamento CE n. 1272/2008 [CLP]
+Testo completo delle indicazioni H e EUH: vedere la sezione 16
+Effetti avversi fisico-chimici, per la salute umana e per l'ambiente
+Nessuna ulteriore informazione disponibile
+Etichettatura secondo il Regolamento CE n. 1272/2008 [CLP]
 Pittogrammi di pericoli (CLP)
 :
 GHS08
@@ -44,20 +56,30 @@ GHS09
 - : P280 - Indossare guanti e indumenti protettivi/Proteggere il viso.
 - P308+P313 - In caso di esposizione o di possibile esposizione, consultare un medico.
 - P501 - Smaltire il prodotto ed il recipiente in base alle disposizioni locali.
-- : EUH208 - Contiene aclonifen e 1,2-benzisothiazolin-3-one. Può provocare una reazione allergica.Etichettatura secondo il Regolamento CE n. 1272/2008 [CLP]
-- EUH401 - Per evitare rischi per la salute umana e per l'ambiente, seguire le istruzioni per l'uso.2.3. Altri pericoli
+- : EUH208 - Contiene aclonifen e 1,2-benzisothiazolin-3-one. Può provocare una reazione allergica.
+Etichettatura secondo il Regolamento CE n. 1272/2008 [CLP]
+- EUH401 - Per evitare rischi per la salute umana e per l'ambiente, seguire le istruzioni per l'uso.
+2.3. Altri pericoli
 Non contiene sostanze PBT/vPvB ≥ 0,1% valutate in conformità con l'Allegato XIII del REACH.
-La sostanza non è inclusa nell'elenco stabilito in conformità con l'Articolo 59(1) del REACH per il possesso di proprietà di interferente endocrino, o non è identificata come avente proprietà di interferente endocrino secondo i criteri stabiliti dal Regolamento Delegato (UE) 2017/2100 della Commissione o dal Regolamento (UE) 2018/605 della Commissione3.1. Sostanze
-Non applicabile3.2. Miscele
-Nome, 1 = Identificatore del prodotto. Nome, 2 = %. Nome, 3 = Classificazione secondo il regolamento (CE) n. 1272/2008 [CLP]. Nome, 4 = Limiti di concentrazione specifici (%). aclonifen (ISO); 2-cloro-3- fenossi-6-nitro-anilina, 1 = Numero CAS: 74070-46-5 Numero CE: 277-704-1 Numero indice EU: 612-120-00-6. aclonifen (ISO); 2-cloro-3- fenossi-6-nitro-anilina, 2 = 49.59. aclonifen (ISO); 2-cloro-3- fenossi-6-nitro-anilina, 3 = Aquatic Acute 1, H400 (M=100) Aquatic Chronic 1, H410 (M=10) Carc. 2, H351 Skin Sens. 1A, H317. aclonifen3.2. Miscele
-(ISO); 2-cloro-3- fenossi-6-nitro-anilina, 4 = . Poly(oxy-1,2-ethanediyl), .alpha.-[tris(1- phenylethyl)phenyl]-.omega.- hydroxy-, 1 = Numero CAS: 99734-09-5 Numero CE: 619-457-8. Poly(oxy-1,2-ethanediyl), .alpha.-[tris(1- phenylethyl)phenyl]-.omega.- hydroxy-, 2 = 1 - 5. Poly(oxy-1,2-ethanediyl), .alpha.-[tris(1- phenylethyl)phenyl]-.omega.- hydroxy-, 3 = Aquatic Chronic 3, H412. Poly(oxy-1,2-ethanediyl), .alpha.-[tris(1- phenylethyl)phenyl]-.omega.- hydroxy-, 4 = 3.2. Miscele
+La sostanza non è inclusa nell'elenco stabilito in conformità con l'Articolo 59(1) del REACH per il possesso di proprietà di interferente endocrino, o non è identificata come avente proprietà di interferente endocrino secondo i criteri stabiliti dal Regolamento Delegato (UE) 2017/2100 della Commissione o dal Regolamento (UE) 2018/605 della Commissione
+3.1. Sostanze
+Non applicabile
+3.2. Miscele
+Nome, 1 = Identificatore del prodotto. Nome, 2 = %. Nome, 3 = Classificazione secondo il regolamento (CE) n. 1272/2008 [CLP]. Nome, 4 = Limiti di concentrazione specifici (%). aclonifen (ISO); 2-cloro-3- fenossi-6-nitro-anilina, 1 = Numero CAS: 74070-46-5 Numero CE: 277-704-1 Numero indice EU: 612-120-00-6. aclonifen (ISO); 2-cloro-3- fenossi-6-nitro-anilina, 2 = 49.59. aclonifen (ISO); 2-cloro-3- fenossi-6-nitro-anilina, 3 = Aquatic Acute 1, H400 (M=100) Aquatic Chronic 1, H410 (M=10) Carc. 2, H351 Skin Sens. 1A, H317. aclonifen
+3.2. Miscele
+(ISO); 2-cloro-3- fenossi-6-nitro-anilina, 4 = . Poly(oxy-1,2-ethanediyl), .alpha.-[tris(1- phenylethyl)phenyl]-.omega.- hydroxy-, 1 = Numero CAS: 99734-09-5 Numero CE: 619-457-8. Poly(oxy-1,2-ethanediyl), .alpha.-[tris(1- phenylethyl)phenyl]-.omega.- hydroxy-, 2 = 1 - 5. Poly(oxy-1,2-ethanediyl), .alpha.-[tris(1- phenylethyl)phenyl]-.omega.- hydroxy-, 3 = Aquatic Chronic 3, H412. Poly(oxy-1,2-ethanediyl), .alpha.-[tris(1- phenylethyl)phenyl]-.omega.- hydroxy-, 4 = 
+3.2. Miscele
 Avvertenza (CLP)
 Contiene
 Indicazioni di pericolo (CLP)
 Consigli di prudenza (CLP)
-Frasi EUHScheda di Dati di Sicurezza
-secondo il Regolamento REACH (CE) 1907/2006 modificato dal Regolamento (UE) 2020/878Scheda di Dati di Sicurezza
-Nome, 1 = Identificatore del prodotto. Nome, 2 = %. Nome, 3 = Classificazione secondo il regolamento (CE) n. 1272/2008 [CLP]. Nome, 4 = Limiti di concentrazione specifici (%). Poly(oxy-1,2-ethanediyl), .alpha.-[tris(1- phenylethyl)phenyl]-.omega.- hydroxy-, 1 = Numero CAS: 99734-09-5. Poly(oxy-1,2-ethanediyl), .alpha.-[tris(1- phenylethyl)phenyl]-.omega.- hydroxy-, 2 = 1 - 5. Poly(oxy-1,2-ethanediyl), .alpha.-[tris(1- phenylethyl)phenyl]-.omega.- hydroxy-, 3 = Aquatic Chronic 3, H412.Scheda di Dati di Sicurezza
-Poly(oxy-1,2-ethanediyl), .alpha.-[tris(1- phenylethyl)phenyl]-.omega.- hydroxy-, 4 = . 1,2-benzisotiazol-3(2H)-one; 1,2-benzisotiazolin-3-one, 1 = Numero CAS: 2634-33-5 Numero CE: 220-120-9 Numero indice EU: 613-088-00-6. 1,2-benzisotiazol-3(2H)-one; 1,2-benzisotiazolin-3-one, 2 = < 0.1. 1,2-benzisotiazol-3(2H)-one; 1,2-benzisotiazolin-3-one, 3 = Acute Tox. 4 (per via orale), H302 Skin Irrit. 2, H315 Eye Dam. 1, H318 Skin Sens. 1, H317 Aquatic Acute 1, H400.Scheda di Dati di Sicurezza
+Frasi EUH
+Scheda di Dati di Sicurezza
+secondo il Regolamento REACH (CE) 1907/2006 modificato dal Regolamento (UE) 2020/878
+Scheda di Dati di Sicurezza
+Nome, 1 = Identificatore del prodotto. Nome, 2 = %. Nome, 3 = Classificazione secondo il regolamento (CE) n. 1272/2008 [CLP]. Nome, 4 = Limiti di concentrazione specifici (%). Poly(oxy-1,2-ethanediyl), .alpha.-[tris(1- phenylethyl)phenyl]-.omega.- hydroxy-, 1 = Numero CAS: 99734-09-5. Poly(oxy-1,2-ethanediyl), .alpha.-[tris(1- phenylethyl)phenyl]-.omega.- hydroxy-, 2 = 1 - 5. Poly(oxy-1,2-ethanediyl), .alpha.-[tris(1- phenylethyl)phenyl]-.omega.- hydroxy-, 3 = Aquatic Chronic 3, H412.
+Scheda di Dati di Sicurezza
+Poly(oxy-1,2-ethanediyl), .alpha.-[tris(1- phenylethyl)phenyl]-.omega.- hydroxy-, 4 = . 1,2-benzisotiazol-3(2H)-one; 1,2-benzisotiazolin-3-one, 1 = Numero CAS: 2634-33-5 Numero CE: 220-120-9 Numero indice EU: 613-088-00-6. 1,2-benzisotiazol-3(2H)-one; 1,2-benzisotiazolin-3-one, 2 = < 0.1. 1,2-benzisotiazol-3(2H)-one; 1,2-benzisotiazolin-3-one, 3 = Acute Tox. 4 (per via orale), H302 Skin Irrit. 2, H315 Eye Dam. 1, H318 Skin Sens. 1, H317 Aquatic Acute 1, H400.
+Scheda di Dati di Sicurezza
 1,2-benzisotiazol-3(2H)-one; 1,2-benzisotiazolin-3-one, 4 = (0,05 ≤ C < 100) Skin Sens. 1, H317
 Testo completo delle indicazioni H e EUH: vedere la sezione 16
