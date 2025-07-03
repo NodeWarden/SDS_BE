@@ -1,25 +1,30 @@
-import re
 from pathlib import Path
-from langchain_docling import DoclingLoader
+from rich.panel import Panel
+from rich.console import Console
+from docling.document_converter import DocumentConverter
+from docling_core.transforms.serializer.markdown import MarkdownDocSerializer
 
-FOLDER_PATH = Path("./data")
-file_list = list(FOLDER_PATH.glob("*.pdf"))
+DOC_SOURCE = Path("./data")
+file_list = list(DOC_SOURCE.glob("*.pdf"))
 out_dir = Path("./data/processed")
 out_dir.mkdir(parents=True, exist_ok=True)
 
-loader = DoclingLoader(file_path = file_list)
 
+start_cue = "SEZIONE 1"
+stop_cue =  "SEZIONE 4"
+
+console =Console()
+def print_in_console(text):
+    console.print(Panel(text))
 for file_path in file_list:
     if file_path.is_file():
-        loader = DoclingLoader(file_path = str(file_path))
-        doc_iter = loader.lazy_load()
-        for d in doc_iter:
-            if d.page_content.startswith("4.1"):
-                break
-            if d.page_content.startswith("1.1"):
-                product_name = re.search("Nome commerciale.:")
-            print(f"Document:  {d.metadata['source']}: {d.page_content=}")
-            with open(out_dir / f"{file_path.stem}_chunk.txt", "a", encoding="utf-8") as f:
-                f.write(d.page_content)
-                f.write("\n")
-                print(f"Saved chunk to {out_dir / f'{file_path.stem}_chunk.txt'}")
+        converter = DocumentConverter()
+        doc = converter.convert(source=file_path).document
+
+        serializer = MarkdownDocSerializer(doc=doc)
+        ser_result = serializer.serialize()
+        ser_text = ser_result.text
+        with open(out_dir / f"{file_path.stem}_chunk.txt", "w", encoding="utf-8") as f:
+            f.write(ser_text[ser_text.find(start_cue) : ser_text.find(stop_cue)])
+            print(f"Saved chunk to {out_dir / f'{file_path.stem}_chunk.txt'}")
+# print_in_console(ser_text)
