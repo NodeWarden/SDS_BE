@@ -1,120 +1,240 @@
-SCHEDA DI DATI DI SICUREZZA
-secondo il Regolamento (CE) n. 1907/2006, come modificato dal Regolamento (UE) 2020/878 della Commissione
-BENOX ® C-50
-Versione
-4.1
-Data di revisione:
-04.06.2025
-Numero SDS:
-600000000300
-Data ultima edizione: 25.10.2024
-Data della prima edizione: 12.04.2016
-1.1 Identificatore del prodotto
+SEZIONE 1: identificazione della sostanza/miscela e della società/impresa
+
+## 1.1 Identificatore del prodotto
+
 Nome commerciale :
+
 BENOX ® C-50
+
 Identificatore Unico Di :
+
 Formula (UFI)
+
 WVA8-50T3-900F-7KNQ
-1.2 Usi identificati pertinenti della sostanza o della miscela e usi sconsigliati
+
+## 1.2 Usi identificati pertinenti della sostanza o della miscela e usi sconsigliati
+
 Utilizzazione della sostanza/della miscela
+
 : Induritore
-1.3 Informazioni sul fornitore della scheda di dati di sicurezza
+
+## 1.3 Informazioni sul fornitore della scheda di dati di sicurezza
+
 Società :
+
 United Initiators GmbH Dr.-Gustav-Adolph-Str. 3 82049 Pullach
+
 Telefono :
+
 +49 / 89 / 74422 - 0
+
 Indirizzo email della persona responsabile del SDS
+
 :
+
 contact@united-in.com
-1.4 Numero telefonico di emergenza
+
+## 1.4 Numero telefonico di emergenza
+
 800 699 792 (toll-free, access from Italy only)
-Classificazione (REGOLAMENTO (CE) N. 1272/2008)
+
+## SEZIONE 2: identificazione dei pericoli
+
+## 2.1 Classificazione della sostanza o della miscela
+
+## Classificazione (REGOLAMENTO (CE) N. 1272/2008)
+
 Perossidi organici, Tipo D
+
 H242: Rischio d'incendio per riscaldamento.
+
 Irritazione oculare, Categoria 2
+
 H319: Provoca grave irritazione oculare.
+
 Sensibilizzazione cutanea, Categoria 1
+
 H317: Può provocare una reazione allergica cutanea.
+
 Tossicità per la riproduzione, Categoria 1B
+
 H360D: Può nuocere al feto.
+
 Pericolo a breve termine (acuto) per l'ambiente acquatico, Categoria 1
+
 H400: Molto tossico per gli organismi acquatici.
+
 Pericolo a lungo termine (cronico) per
+
 H410: Molto tossico per gli organismi acquatici con
-SCHEDA DI DATI DI SICUREZZA
+
+## SCHEDA DI DATI DI SICUREZZA
+
 secondo il Regolamento (CE) n. 1907/2006, come modificato dal Regolamento (UE) 2020/878 della Commissione
-BENOX ® C-50
+
+## BENOX ® C-50
+
 Versione
+
 Data di revisione:
+
 4.1
+
 Numero SDS:
+
 04.06.2025
+
 600000000300
+
 l'ambiente acquatico, Categoria 1
+
+<!-- image -->
+
 Data ultima edizione: 25.10.2024
+
 Data della prima edizione: 12.04.2016
+
 effetti di lunga durata.
-Etichettatura (REGOLAMENTO (CE) N. 1272/2008)
+
+## 2.2 Elementi dell'etichetta
+
+## Etichettatura (REGOLAMENTO (CE) N. 1272/2008)
+
 Pittogrammi di pericolo
+
 :
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
 Avvertenza
+
 :
+
 Pericolo
+
 Indicazioni di pericolo
+
 : H242
+
 Rischio d'incendio per riscaldamento.
+
 H317
+
 Può provocare una reazione allergica cutanea.
+
 H319
+
 Provoca grave irritazione oculare.
+
 H360D
+
 Può nuocere al feto.
+
 H410
+
 Molto tossico per gli organismi acquatici con effetti di lunga durata.
+
 Consigli di prudenza :
-Prevenzione:
+
+## Prevenzione:
+
 P201
+
 Procurarsi istruzioni specifiche prima dell'uso.
+
 P210
+
 Tenere lontano da fonti di calore, superfici calde, scintille, fiamme libere o altre fonti di accensione. Non fumare.
+
 P234
+
 Conservare soltanto nell'imballaggio originale.
+
 P273
+
 Non disperdere nell'ambiente.
+
 P280
+
 Indossare guanti/ indumenti protettivi/ proteggere gli occhi/ proteggere il viso/ proteggere l'udito.
-Reazione:
+
+## Reazione:
+
 P308 + P313
+
 IN CASO di esposizione o di possibile
+
 esposizione, consultare un medico.
+
 P370 + P378
+
 In caso d'incendio: utilizzare spruzzo d'acqua, schiuma resistente all'alcool, prodotto chimico secco oppure biossido di carbonio per estinguere. Raccogliere il materiale fuoriuscito.
+
 P391
-Componenti pericolosi da segnalare in etichetta:
+
+## Componenti pericolosi da segnalare in etichetta:
+
 dicicloesilftalato (N. CAS 84-61-7) perossido di dibenzoile (N. CAS 94-36-0)
-2.3 Altri pericoli
+
+## 2.3 Altri pericoli
+
 Questa sostanza/miscela non contiene componenti considerati sia persistenti, bioaccumulabili che tossici (PBT), oppure molto persistenti e molto bioaccumulabili (vPvB) a concentrazioni di 0.1% o superiori.
+
 informazioni ecologiche: La sostanza/miscela non contiene componenti considerati aventi proprietà di interferenza endocrina ai sensi dell'articolo 57(f) del REACH o del regolamento
-SCHEDA DI DATI DI SICUREZZA
+
+## SCHEDA DI DATI DI SICUREZZA
+
 secondo il Regolamento (CE) n. 1907/2006, come modificato dal Regolamento (UE) 2020/878 della Commissione
-BENOX ® C-50
+
+## BENOX ® C-50
+
+<!-- image -->
+
 Versione
+
 4.1
+
 Data di revisione:
+
 04.06.2025
+
 Numero SDS:
+
 600000000300
+
 Data ultima edizione: 25.10.2024
+
 Data della prima edizione: 12.04.2016
+
 delegato (UE) 2017/2100 della Commissione o del regolamento (UE) 2018/605 della Commissione a livelli dello 0,1% o superiori.
+
 informazioni tossicologiche: Questa sostanza/miscela contiene componenti considerati aventi proprietà di interferenza endocrina con effetti sulla salute umana, ai sensi dell'articolo 57(f) del REACH, del regolamento (UE) 2018/605 della Commissione o del regolamento delegato (UE) 2017/2100 della Commissione.
-3.2 Miscele
+
+## SEZIONE 3: composizione/informazioni sugli ingredienti
+
+## 3.2 Miscele
+
 Natura chimica
+
 :
+
 Perossido organico
+
 Miscela solida
-Componenti
-Nome Chimico, 1 = N. CAS N. CE N. INDICE Numero di registrazione. Nome Chimico, 2 = Classificazione. Nome Chimico, 3 = Concentrazion e (% w/w). dicicloesilftalato, 1 = 84-61-7 201-545-9 607-719-00-4 01-2119978223-34. dicicloesilftalato, 2 = Skin Sens. 1; H317 Repr. 1B; H360D Aquatic Chronic 2; H411. dicicloesilftalato, 3 = >= 50 - < 55. perossido di dibenzoile, 1 = 94-36-0 202-327-6 617-008-00-0 01-2119511472-50. perossido di dibenzoile, 2 = Org. Perox. B; H241 Eye Irrit. 2; H319 Skin Sens. 1; H317 Aquatic Acute 1; H400 Aquatic Chronic 1; H410 Fattore-M
-Componenti
-(Tossicità acuta per l'ambiente acquatico): 10 Fattore-M (Tossicità cronica per l'ambiente acquatico): 10. perossido di dibenzoile, 3 = >= 45 - < 50
+
+## Componenti
+
+| Nome Chimico            | N. CAS N. CE N. INDICE Numero di registrazione   | Classificazione                                                                                                                                                                                                             | Concentrazion e (% w/w)   |
+|-------------------------|--------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|
+| dicicloesilftalato      | 84-61-7 201-545-9 607-719-00-4 01-2119978223-34  | Skin Sens. 1; H317 Repr. 1B; H360D Aquatic Chronic 2; H411                                                                                                                                                                  | >= 50 - < 55              |
+| perossido di dibenzoile | 94-36-0 202-327-6 617-008-00-0 01-2119511472-50  | Org. Perox. B; H241 Eye Irrit. 2; H319 Skin Sens. 1; H317 Aquatic Acute 1; H400 Aquatic Chronic 1; H410 Fattore-M (Tossicità acuta per l'ambiente acquatico): 10 Fattore-M (Tossicità cronica per l'ambiente acquatico): 10 | >= 45 - < 50              |
+
 Per spiegazioni sulle abbreviazioni vedi paragrafo 16.
+
+## 

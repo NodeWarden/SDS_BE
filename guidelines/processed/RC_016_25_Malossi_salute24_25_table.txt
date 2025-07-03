@@ -1,0 +1,85 @@
+
+Le Frasi H previste dalla classificazione secondo il regolamento (CE) N. 1272/2008 costituiscono gli 'Indicatori di pericolo' ('Hazard Statement') e sono sintetizzati dalla lettera H o EUH seguita da un numero, secondo il seguente codice
+
+| FRASE DI PERICOLO   | SIGNIFICATO                                                                                                                                                         |
+|---------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| PERICOLI FISICI     |                                                                                                                                                                     |
+| H200                | Esplosivo instabile.                                                                                                                                                |
+| H201                | Esplosivo; pericolo di esplosione di massa.                                                                                                                         |
+| H202                | Esplosivo; grave pericolo di proiezione.                                                                                                                            |
+| H203                | Esplosivo; pericolo di incendio, di spostamento d'aria o di proiezione.                                                                                             |
+| H204                | Pericolo di incendio o di proiezione.                                                                                                                               |
+| H205                | Pericolo di esplosione di massa in caso d'incendio.                                                                                                                 |
+| H220                | Gas altamente infiammabile.                                                                                                                                         |
+| H221                | Gas infiammabile.                                                                                                                                                   |
+| H222                | Aerosol altamente infiammabile.                                                                                                                                     |
+| H223                | Aerosol infiammabile.                                                                                                                                               |
+| H224                | Liquido e vapori altamente infiammabili.                                                                                                                            |
+| H225                | Liquido e vapori facilmente infiammabili.                                                                                                                           |
+| H226                | Liquido e vapori infiammabili.                                                                                                                                      |
+| H227                | Liquido combustibile                                                                                                                                                |
+| H228                | Solido infiammabile.                                                                                                                                                |
+| H229                | Recipiente sotto pressione: può esplodere per riscaldamento.                                                                                                        |
+| H230                | Può scoppiare anche in assenza di aria.                                                                                                                             |
+| H231                | Può scoppiare anche in assenza di aria, a elevata pressione e/o temperatura                                                                                         |
+| H240                | Rischio di esplosione per riscaldamento.                                                                                                                            |
+| H241                | Rischio d'incendio o di esplosione per riscaldamento.                                                                                                               |
+| H242                | Rischio d'incendio per riscaldamento.                                                                                                                               |
+| H250                | Spontaneamente infiammabile all'aria.                                                                                                                               |
+| H251                | Autoriscaldante; può infiammarsi.                                                                                                                                   |
+| H252 H260           | Autoriscaldante in grandi quantità; può infiammarsi. A contatto con l'acqua libera gas infiammabili che possono infiammarsi spontaneamente.                         |
+| H261                | A contatto con l'acqua libera gas infiammabili.                                                                                                                     |
+| H270                | Può provocare o aggravare un incendio; comburente.                                                                                                                  |
+| H271                | Può provocare un incendio o un'esplosione; molto comburente.                                                                                                        |
+| H272                | Può aggravare un incendio; comburente.                                                                                                                              |
+| H280                | Contiene gas sotto pressione; può esplodere se riscaldato.                                                                                                          |
+| H281                | Contiene gas refrigerato; può provocare ustioni o lesioni criogeniche.                                                                                              |
+| H290                | Può essere corrosivo per i metalli. PERICOLI PER LA SALUTE                                                                                                          |
+| H300                | Letale se ingerito.                                                                                                                                                 |
+| H301                | Tossico se ingerito.                                                                                                                                                |
+| H302 H303           | Nocivo se ingerito. Può essere nocivo in caso di ingestione.                                                                                                        |
+| H304                | Può essere letale in caso di ingestione e di penetrazione nelle vie respiratorie. Può essere nocivo in caso di ingestione e di penetrazione nelle vie respiratorie. |
+| H305 H310           | Letale per contatto con la pelle.                                                                                                                                   |
+| H311                | Tossico per contatto con la pelle.                                                                                                                                  |
+| H312                | Nocivo per contatto con la pelle.                                                                                                                                   |
+| H313                | Può essere nocivo per contatto con la                                                                                                                               |
+| H314                | pelle. oculari.                                                                                                                                                     |
+| H315                | Provoca gravi ustioni cutanee e gravi lesioni Provoca irritazione cutanea.                                                                                          |
+| H316                | Provoca una lieve irritazione cutanea.                                                                                                                              |
+| H317                | Può provocare una reazione allergica cutanea.                                                                                                                       |
+| H318                | Provoca gravi lesioni oculari.                                                                                                                                      |
+| H319                | oculare.                                                                                                                                                            |
+| H320                | Provoca grave irritazione Provoca irritazione oculare.                                                                                                              |
+| H330                | Letale se inalato.                                                                                                                                                  |
+| H331                | Tossico se inalato.                                                                                                                                                 |
+| H332                | Nocivo se inalato.                                                                                                                                                  |
+| H333                | Può essere nocivo se inalato.                                                                                                                                       |
+| H334                | Può provocare sintomi allergici o asmatici o difficoltà respiratorie se inalato.                                                                                    |
+| H335                | Può irritare le vie respiratorie.                                                                                                                                   |
+| H336                | Può provocare sonnolenza o vertigini.                                                                                                                               |
+
+
+| FRASE DI PERICOLO                                                                  | SIGNIFICATO                                                                                                                                                         |
+|------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| H340                                                                               | Può provocare alterazioni genetiche.                                                                                                                                |
+| H341                                                                               | Sospettato di provocare alterazioni genetiche.                                                                                                                      |
+| H350                                                                               | Può provocare il cancro.                                                                                                                                            |
+| H351                                                                               | Sospettato di provocare il cancro.                                                                                                                                  |
+| H360                                                                               | Può nuocere alla fertilità o al feto.                                                                                                                               |
+| H361                                                                               | Sospettato di nuocere alla fertilità o al feto.                                                                                                                     |
+| H362                                                                               | Può essere nocivo per i lattanti allattati al seno.                                                                                                                 |
+| H370                                                                               | Provoca danni agli organi.                                                                                                                                          |
+| H371                                                                               | Può provocare danni agli organi.                                                                                                                                    |
+| H372                                                                               | Provoca danni agli organi in caso di esposizione prolungata o ripetuta.                                                                                             |
+| H373                                                                               | Può provocare danni agli organi in caso di esposizione prolungata o ripetuta                                                                                        |
+| PERICOLI PER L'AMBIENTE                                                            | PERICOLI PER L'AMBIENTE                                                                                                                                             |
+| H400                                                                               | Molto tossico per gli organismi acquatici.                                                                                                                          |
+| H401                                                                               | Tossico per gli organismi acquatici.                                                                                                                                |
+| H402                                                                               | Nocivo per gli organismi acquatici.                                                                                                                                 |
+| H410                                                                               | Molto tossico per gli organismi acquatici con effetti di lunga durata.                                                                                              |
+| H411                                                                               | Tossico per gli organismi acquatici con effetti di lunga durata.                                                                                                    |
+| H412                                                                               | Nocivo per gli organismi acquatici con effetti di lunga durata.                                                                                                     |
+| H413                                                                               | Può essere nocivo per gli organismi acquatici con effetti di lunga durata.                                                                                          |
+| H420                                                                               | Nuoce alla salute pubblica e all'ambiente distruggendo l'ozono dello strato superiore dell'atmosfera                                                                |
+| INFORMAZIONI SUPPLEMENTARI SUI PERICOLI                                            | INFORMAZIONI SUPPLEMENTARI SUI PERICOLI                                                                                                                             |
+| PROPRIETÀ FISICHE                                                                  | PROPRIETÀ FISICHE                                                                                                                                                   |
