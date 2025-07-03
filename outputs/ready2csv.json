@@ -1,0 +1,52 @@
+[
+    {
+        "file_name": "data/processed/BENOX\u00aeC-50_MSDS_IT_IT_chunk.txt",
+        "sezione": "## SEZIONE 2",
+        "frase_H": "H242"
+    },
+    {
+        "file_name": "data/processed/BENOX\u00aeC-50_MSDS_IT_IT_chunk.txt",
+        "sezione": "## SEZIONE 2",
+        "frase_H": "H319"
+    },
+    {
+        "file_name": "data/processed/BENOX\u00aeC-50_MSDS_IT_IT_chunk.txt",
+        "sezione": "## SEZIONE 2",
+        "frase_H": "H317"
+    },
+    {
+        "file_name": "data/processed/BENOX\u00aeC-50_MSDS_IT_IT_chunk.txt",
+        "sezione": "## SEZIONE 2",
+        "frase_H": "H360D"
+    },
+    {
+        "file_name": "data/processed/BENOX\u00aeC-50_MSDS_IT_IT_chunk.txt",
+        "sezione": "## SEZIONE 2",
+        "frase_H": "H400"
+    },
+    {
+        "file_name": "data/processed/BENOX\u00aeC-50_MSDS_IT_IT_chunk.txt",
+        "sezione": "## SEZIONE 2",
+        "frase_H": "H410"
+    },
+    {
+        "file_name": "data/processed/CapaWeiss_Ultra_SDS_IT_1.0_IT_chunk.txt",
+        "sezione": "## SEZIONE 3",
+        "frase_H": "H351"
+    },
+    {
+        "file_name": "data/processed/sds_viptin_pro_sha_9600_a_v.1.0_it_-_2025.01.17_chunk.txt",
+        "sezione": "## SEZIONE 2",
+        "frase_H": "H351"
+    },
+    {
+        "file_name": "data/processed/sds_viptin_pro_sha_9600_a_v.1.0_it_-_2025.01.17_chunk.txt",
+        "sezione": "## SEZIONE 2",
+        "frase_H": "H400"
+    },
+    {
+        "file_name": "data/processed/sds_viptin_pro_sha_9600_a_v.1.0_it_-_2025.01.17_chunk.txt",
+        "sezione": "## SEZIONE 2",
+        "frase_H": "H410"
+    }
+]
