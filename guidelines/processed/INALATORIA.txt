@@ -1,0 +1,28 @@
+|   FATTORE DI GRAVITÀ (M) | INDICAZIONI DI PERICOLO REG. (CE) N.1272/2008 e smi                                                                             | LIMITE DI ESPOSIZIONE   |
+|--------------------------|---------------------------------------------------------------------------------------------------------------------------------|-------------------------|
+|                        1 | H302 Tossicità acuta (per via orale), cat. 4 - Nocivo se ingerito                                                               | ≥ 100 mg/m 3            |
+|                        1 | H319 Gravi lesioni oculari/irritazione oculare, cat. 2 - Provoca grave irritazione oculare                                      | ≥ 100 mg/m 3            |
+|                        2 | H301 Tossicità acuta (per via orale), cat. 3 - Tossico se ingerito                                                              | ≥10 < 100 mg/m 3        |
+|                        2 | H312 Tossicità acuta (per via cutanea), cat. 4 - Nocivo per contatto con la pelle                                               | ≥10 < 100 mg/m 3        |
+|                        2 | H318 Gravi lesioni oculari/irritazione oculare, cat. 1 - Provoca gravi lesioni oculari                                          | ≥10 < 100 mg/m 3        |
+|                        2 | H332 Tossicità acuta in caso di inalazione, cat. 4 - Nocivo per inalazione                                                      | ≥10 < 100 mg/m 3        |
+|                        2 | H335 Tossicità specifica per organi bersaglio SE, cat. 3 - Può irritare le vie respiratorie                                     | ≥10 < 100 mg/m 3        |
+|                        2 | H336 Tossicità specifica per organi bersaglio SE cat. 3 Narcosi - Può provocare sonnolenza o vertigini                          | ≥10 < 100 mg/m 3        |
+|                        3 | H304 Pericolo in caso di aspirazione, cat. 1 - Può essere letale in caso di ingestione e di penetrazione nelle vie respiratorie | ≥ 1 < 10 mg/m 3         |
+|                        3 | H311 Tossicità acuta (per via cutanea), cat. 3 - Tossico per contatto con la pelle                                              | ≥ 1 < 10 mg/m 3         |
+|                        3 | H317 Sensibilizzazione della pelle, cat. 1 - Può provocare una reazione allergica cutanea                                       | ≥ 1 < 10 mg/m 3         |
+|                        3 | H331 Tossicità acuta in caso di inalazione, cat. 3 - Tossico se inalato                                                         | ≥ 1 < 10 mg/m 3         |
+|                        3 | EUH070 Tossico per contatto oculare                                                                                             | ≥ 1 < 10 mg/m 3         |
+|                        3 | EUH071 Corrosivo per le vie respiratorie                                                                                        | ≥ 1 < 10 mg/m 3         |
+|                        4 | H330 Tossicità acuta in caso di inalazione, cat. 1 e 2 - Letale se inalato                                                      | ≥ 0,1 < 1 mg/m 3        |
+|                        4 | H334 Sensibilizzazione della pelle, cat. 1 Può provocare sintomi allergici o asmatici o difficoltà respiratorie se inalato      | ≥ 0,1 < 1 mg/m 3        |
+|                        4 | H371 Tossicità specifica per organi bersaglio SE, cat. 2 - Può provocare danni agli organi                                      | ≥ 0,1 < 1 mg/m 3        |
+|                        4 | H373 Tossicità specifica per organi bersaglio RE, cat. 2 - Può provocare danni agli organi                                      | ≥ 0,1 < 1 mg/m 3        |
+|                        5 | H310 Tossicità acuta (per via cutanea), cat. 1 e 2 - Letale per contatto con la pelle.                                          | < 0,1 mg/m 3            |
+|                        5 | H330 Tossicità acuta in caso di inalazione, cat. 1 e 2- Letale se inalato                                                       | < 0,1 mg/m 3            |
+|                        5 | H341 Mutagenicità sulle cellule germinali, cat. 2 - Sospettato di provocare alterazioni genetiche                               | < 0,1 mg/m 3            |
+|                        5 | H351 Cancerogenicità, cat. 2 - Sospettato di provocare il cancro                                                                | < 0,1 mg/m 3            |
+|                        5 | H361 Tossicità per la riproduzione, cat. 2 - Sospettato di nuocere alla fertilità o al feto                                     | < 0,1 mg/m 3            |
+|                        5 | H362 Tossicità per la riproduzione, cat. supplementare - Effetti sull'allattamento o attraverso l'allattamento                  | < 0,1 mg/m 3            |
+|                        5 | H370 Tossicità specifica per organi bersaglio SE, cat. 1 - Provoca danni agli organi                                            | < 0,1 mg/m 3            |
+|                        5 | H372 Tossicità specifica per organi bersaglio RE cat. 1 - Provoca danni agli organi                                             | < 0,1 mg/m 3            |

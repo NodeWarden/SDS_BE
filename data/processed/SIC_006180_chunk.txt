@@ -1,0 +1,205 @@
+SEZIONE 1: Identificazione della sostanza/miscela e della società/impresa
+
+## 1.1. Identificatore del prodotto
+
+REACH - tipo
+
+- : Miscela
+
+Denominazione commerciale
+
+- :  Ace profumata
+
+Gruppo di prodotti
+
+- :  Prodotto commerciale
+
+## 1.2. Usi identificati pertinenti della sostanza o della miscela e usi sconsigliati
+
+## 1.2.1. Usi identificati pertinenti
+
+Destinato al grande pubblico
+
+Categoria d'uso principale
+
+- : Usi di consumo: nuclei familiari (= popolazione in generale = consumatori)
+
+Funzione o categoria d'uso
+
+- : Prodotti per il lavaggio e la pulizia (tra cui prodotti a base di solventi)
+
+1.2.2. Usi sconsigliati
+
+Nessuna ulteriore informazione disponibile
+
+## 1.3. Informazioni sul fornitore della scheda di dati di sicurezza
+
+Fater S.P.A.
+
+Via Mare Adriatico, 122
+
+65010 Spoltore - Pescara (ITALIA)
+
+(IT) +39 02 899 83 616
+
+consumerservice.it@ace.info
+
+## 1.4. Numero telefonico di emergenza
+
+Centro Antiveleni di Bergamo Azienda Ospedaliera Papa Giovanni XXIII
+
+800 88 33 00
+
+Centro Antiveleni di Verona Azienda Ospedaliera Integrata Verona
+
++39 800 011 858
+
+Centro Antiveleni di Roma CAV 'Osp. Pediatrico Bambino Gesù' Dip. Emergenza e Accettazione DEA
+
++39 06 6859 3726
+
+Centro Antiveleni di Roma CAV Policlinico "A. Gemelli" 06-3054343
+
+Centro Antiveleni di Roma CAV Policlinico "Umberto I" 06-49978000
+
+Centro Antiveleni di Napoli Az. Osp. "A. Cardarelli"
+
++39 081 54 53 333
+
+Centro Antiveleni di Foggia Az. Osp. Univ. Foggia +39 800 183 459
+
+Centro Antiveleni di Firenze Az. Osp. "Careggi" U.O. Tossicologia Medica, S.O.D. di Tossicologia Clinicaicologia Clinica +39 055 794 7819
+
+Centro Antiveleni di Pavia CAV Centro Nazionale di Informazione Tossicologica, IRCCS Fondazione Maugeri  +39 03 822 4444
+
+Centro Antiveleni di Milano Osp. Niguarda Ca' Granda
+
++39 02 66101029
+
+24/24
+
+## SEZIONE 2: Identificazione dei pericoli
+
+## 2.1. Classificazione della sostanza o della miscela
+
+## Classificazione secondo il regolamento (CE) n. 1272/2008 [CLP]
+
+Corrosivo per i metalli, categoria 1
+
+H290
+
+Corrosione/irritazione cutanea, categoria 2
+
+H315
+
+Gravi lesioni oculari/irritazione oculare, categoria 2
+
+H319
+
+Pericoloso per l'ambiente acquatico - Pericolo acuto, categoria 1
+
+H400
+
+Pericoloso per l'ambiente acquatico - Pericolo cronico, categoria 2
+
+H411
+
+Testo completo delle indicazioni H e EUH: vedere la sezione 16
+
+## Effetti avversi fisico-chimici, per la salute umana e per l'ambiente
+
+Nessuna ulteriore informazione disponibile
+
+## Ace profumata
+
+## Scheda di Dati di Sicurezza
+
+Conforme al Regolamento (CE) n° 1907/2006 (REACH) come modificato dal Regolamento (UE) 2020/878
+
+## 2.2. Elementi dell'etichetta
+
+## Etichettatura secondo il Regolamento CE n. 1272/2008 [CLP]
+
+Pittogrammi di pericoli (CLP)
+
+:
+
+<!-- image -->
+
+GHS07
+
+GHS09
+
+<!-- image -->
+
+- : Attenzione
+- : H290 - Può essere corrosivo per i metalli.
+- H315 - Provoca irritazione cutanea.
+- H319 - Provoca grave irritazione oculare.
+- H410 - Molto tossico per gli organismi acquatici con effetti di lunga durata.
+- : P102 - Tenere fuori dalla portata dei bambini.
+- P234 - Conservare soltanto nell'imballaggio originale.
+
+P302+P352 - IN CASO DI CONTATTO CON LA PELLE: Lavare abbondantemente con acqua.
+
+P305+P351+P338 - IN CASO DI CONTATTO CON GLI OCCHI: sciacquare accuratamente per parecchi minuti. Togliere le eventuali lenti a contatto se è agevole farlo. Continuare a sciacquare.
+
+P337+P313 - Se l'irritazione degli occhi persiste, consultare un medico.
+
+P301+P310 - IN CASO DI INGESTIONE: contattare immediatamente un CENTRO ANTIVELENI o un medico.
+
+P101 - In caso di consultazione di un medico, tenere a disposizione il contenitore o l'etichetta del prodotto.
+
+P501 - Smaltire il prodotto/recipiente in conformità con le normative locali, nazional.
+
+- : EUH206 - Attenzione! Non utilizzare in combinazione con altri prodotti. Possono liberarsi gas pericolosi (cloro).
+- : Regolamento relativo ai detergenti (648/2004/CE): &lt; 5% sbiancanti a base di cloro; profumi
+
+Avvertenza (CLP)
+
+Indicazioni di pericolo (CLP)
+
+Consigli di prudenza CLP
+
+## Frasi EUH
+
+Frasi supplementari
+
+## 2.3. Altri pericoli
+
+Questa sostanza/miscela non soddisfa i criteri PBT del Regolamento REACH, allegato XIII Questa sostanza/miscela non soddisfa i criteri vPvB del Regolamento REACH, allegato XIII Non contiene sostanze PBT/vPvB ≥ 0,1% valutate in conformità con l'Allegato XIII del REACH.
+
+La miscela non contiene una sostanza(e) inclusa(e) nell'elenco stabilito in conformità all'Articolo 59(1) del REACH per il possesso di proprietà di interferente endocrino, o non è identificata come avente proprietà di interferente endocrino secondo i criteri stabiliti dal Regolamento Delegato (UE) 2017/2100 della Commissione o dal Regolamento (UE) 2018/605 della Commissione in concentrazioni pari o superiori allo 0,1 %
+
+## SEZIONE 3: Composizione/informazioni sugli ingredienti
+
+## 3.1. Sostanze
+
+Non applicabile
+
+## 3.2. Miscele
+
+| Nome                                       | Identificatore del prodotto                                                                             | %     | Classificazione secondo il regolamento (CE) n. 1272/2008 [CLP]                                                                     |
+|--------------------------------------------|---------------------------------------------------------------------------------------------------------|-------|------------------------------------------------------------------------------------------------------------------------------------|
+| ipoclorito di sodio, soluzione …%Cl attivo | Numero CAS: 7681-52-9 Numero CE: 231-668-3 Numero indice EU: 017-011- 00-1 no. REACH: 01-2119488154- 34 | 1 - 5 | Met. Corr. 1, H290 Skin Corr. 1B, H314 Eye Dam. 1, H318 STOT SE 3, H335 Aquatic Acute 1, H400 (M=10) Aquatic Chronic 1, H410 (M=1) |
+
+## Ace profumata
+
+## Scheda di Dati di Sicurezza
+
+Conforme al Regolamento (CE) n° 1907/2006 (REACH) come modificato dal Regolamento (UE) 2020/878
+
+| Nome                              | Identificatore del prodotto                                                                             | %     | Classificazione secondo il regolamento (CE) n. 1272/2008 [CLP]   |
+|-----------------------------------|---------------------------------------------------------------------------------------------------------|-------|------------------------------------------------------------------|
+| idrossido di sodio; soda caustica | Numero CAS: 1310-73-2 Numero CE: 215-185-5 Numero indice EU: 011-002- 00-6 no. REACH: 01-2119457892- 27 | 1 - 2 | Met. Corr. 1, H290 Skin Corr. 1A, H314                           |
+
+## Limiti di concentrazione specifici:
+
+| Nome                                       | Identificatore del prodotto                                                                             | Limiti di concentrazione specifici                                                                                                   |
+|--------------------------------------------|---------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|
+| ipoclorito di sodio, soluzione …%Cl attivo | Numero CAS: 7681-52-9 Numero CE: 231-668-3 Numero indice EU: 017-011- 00-1 no. REACH: 01-2119488154- 34 | ( 5 ≤C ≤ 100) EUH031                                                                                                                 |
+| idrossido di sodio; soda caustica          | Numero CAS: 1310-73-2 Numero CE: 215-185-5 Numero indice EU: 011-002- 00-6 no. REACH: 01-2119457892- 27 | ( 0,5 ≤C < 2) Eye Irrit. 2, H319 ( 0,5 ≤C < 2) Skin Irrit. 2, H315 ( 2 ≤C < 5) Skin Corr. 1B, H314 ( 5 ≤C < 100) Skin Corr. 1A, H314 |
+
+Testo completo delle indicazioni H e EUH: vedere la sezione 16
+
+## 
