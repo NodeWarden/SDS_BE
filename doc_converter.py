@@ -1,3 +1,5 @@
+#conversione con serializer di tutta la cartella di input fino a sezione 4, successive superflue.
+
 from pathlib import Path
 from rich.panel import Panel
 from rich.console import Console
@@ -27,4 +29,3 @@ for file_path in file_list:
         with open(out_dir / f"{file_path.stem}_chunk.txt", "w", encoding="utf-8") as f:
             f.write(ser_text[ser_text.find(start_cue) : ser_text.find(stop_cue)])
             print(f"Saved chunk to {out_dir / f'{file_path.stem}_chunk.txt'}")
-# print_in_console(ser_text)
